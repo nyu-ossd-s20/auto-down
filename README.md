@@ -1,3 +1,3 @@
 # autodown
 
-Download files automatically to folders according to the file type
+A Firefox extension aimed to automatically classify downloaded files into different folders based on the file types.
