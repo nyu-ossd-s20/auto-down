@@ -1,3 +1,3 @@
 # autodown
 
-A Firefox extension aimed to automatically classify downloaded files into different folders based on the file types.
+A Firefox extension aimed to change all pictures loaded in the browser into Nicolas Cage's picture using https://www.placecage.com/.
